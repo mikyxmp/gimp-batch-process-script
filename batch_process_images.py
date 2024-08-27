@@ -56,8 +56,8 @@ register(
     "python_fu_batch_process_images",
     "Batch process PNG images with Gaussian Blur and Threshold",
     "Applies Gaussian Blur and Threshold to all PNG images in a folder and saves them with '_gimp' suffix.",
-    "Michael",
-    "Plevan",
+    "<Your first name>",
+    "<Your last name>",
     "2024",
     "<Toolbox>/MyScripts/Batch Process Images",  # Adjusted the menu location
     "",
